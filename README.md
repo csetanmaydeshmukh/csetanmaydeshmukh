@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=csetanmaydeshmukh&label=Profile%20views&color=0e75b6&style=flat" alt="csetanmaydeshmukh" /> </p>
 
 
-- 🌱 I’m currently learning **JavaScript, PHP, MySQL, React**
+- 🌱 I’m currently learning **JavaScript, React, Angular, PHP, MySQL**
 
 - 👨‍💻 All of my projects are available at [https://github.com/csetanmaydeshmukh](https://github.com/csetanmaydeshmukh)
 
